@@ -24,3 +24,6 @@
     [Start] → Progress + Live-Status + Log
 
     Jederzeit [Pause] oder [Abbrechen] möglich
+## 📸 Screenshot
+
+![FolderMover](https://i.imgur.com/Or0hft0.png)
